@@ -1,0 +1,29 @@
+https://redbeanphp.com/index.php?p=/connection
+
+https://redbeanphp.com/index.php?p=/crud
+
+https://redbeanphp.com/index.php?p=/models
+
+https://www.w3schools.com/php/php_oop_classes_objects.asp
+
+https://nouvelle-techno.fr/articles/live-coding-creer-un-crud-en-php
+
+https://www.php.net/manual/fr/language.oop5.interfaces.php
+
+https://sql.sh/
+
+https://www.mikecodeur.com/2018/06/21/crud-php/
+
+
+interface DAO{
+    public function save(Livre livre);
+
+    
+}
+
+class DAOLivreImplementaton implements DAO{
+    attribut
+    public function save(Livre livre){
+
+    }
+}       
